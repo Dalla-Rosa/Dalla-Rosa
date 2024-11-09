@@ -4,4 +4,6 @@ Here I have a few projects of games I'm working on, such as **DOOM Unity** and a
 
 ## My Languages
 
+These are especially based on a few experiences that i found relevant, i'm also profficient in COBOL, C, C++, Java, HTML, CSS, etc.
+
 [![My languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dalla-Rosa&layout=compact&theme=vue&hide=shaderlab,hlsl&langs_count=7)](https://github.com/Dalla-Rosa?tab=repositories)
