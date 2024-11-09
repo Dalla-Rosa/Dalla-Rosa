@@ -1,6 +1,7 @@
 # About Me
+Hello! here is the place that i enjoy sharing a few projects of games I'm currently working on, such as **DOOM Unity**, and a few other experiences while i study at my university.
 
-Here I have a few projects of games I'm currently working on, such as **DOOM Unity**
+I'm a person that is always trying to create something new and always constantly learning.
 
 ## My Languages
 
